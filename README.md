@@ -7,7 +7,7 @@ RecipeHub is a web application that can be used to access food and drink recipes
 
 If you would like to give RecipeHub a try use the link below:
 
-[RecipeHub](https://gwennr-t.github.io/RecipeHub/)
+[RecipeHub](https://stroyer210.github.io/RecipeHub/)
 
 ## Screenshots
 
